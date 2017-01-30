@@ -1,3 +1,3 @@
 # Git Training Repo
 
-!(./img/baracktocat.jpg)(baracktocat Cyaa)
+![./img/baracktocat.jpg](baracktocat Cyaa)
